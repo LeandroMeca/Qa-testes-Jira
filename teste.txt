@@ -1,0 +1,23 @@
+1
+Cliente deve cadastrar mrador utilizando campo      
+
+2
+Cadastrar documento
+
+3
+validar se é valido o formato do documento inserido
+
+
+
+
+
+1
+Porteiro de cadastrar visitante
+2
+tem que adicionar a unidade ao visitante
+3
+verificar se tem liberação antes de outros meios de comunicação
+
+
+
+
